@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.exe
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.deps.json
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.runtimeconfig.json
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.runtimeconfig.dev.json
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.dll
+C:\Users\user\Desktop\task-Ref\task-Ref\bin\Debug\netcoreapp3.1\task-Ref.pdb
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.AssemblyInfo.cs
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.dll
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.pdb
+C:\Users\user\Desktop\task-Ref\task-Ref\obj\Debug\netcoreapp3.1\task-Ref.genruntimeconfig.cache
